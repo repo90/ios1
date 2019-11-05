@@ -1,0 +1,100 @@
+Package: com.arab-crack.icone
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Filename: ./debs/com.arab-crack.icone_2.3_iphoneos-arm.deb
+Size: 3798
+MD5sum: f0a7df76c93822b38ad956345eeed615
+SHA1: 8aaaebb84d99dfb85ab850da38fce96b7e04a52d
+SHA256: 649751017789f676a0b5031c4f500795cd3bdccdef7e3a2bc9ad783cf56af54b
+Section: System
+Description: Officials Arab-Crack Icons
+Author: Ali
+Essential: yes
+Name: Arab-Crack Icons
+
+Package: com.arab-crack.mediabox
+Version: 2.4.8
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.pixel.mediabox
+Filename: ./debs/com.arab-crack.mediabox_2.4.8.deb
+Size: 319188
+MD5sum: ff222a0d18f3930ea936b8222312a48d
+SHA1: eaf87732f144885cff23e7721b75ee514e18776e
+SHA256: 42c18344e72589f015fad5daa2f210114e27bd3cf3bac1a5af0f050411f1e7aa
+Section: System
+Description: NO ADS , download here [ http://tiny.cc/MediaBox248 ]
+Author: Ali
+Icon: https://i.ibb.co/z63zcRj/input-onlinepngtools.jpg
+Name: MediaBoxPlus
+
+Package: com.arab-cydia.AppCake6
+Version: 6.0.8-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: appsync
+Filename: ./debs/com.arab-cydia.appcake6_6.0.8-1.deb
+Size: 20101252
+MD5sum: 82bc06b8bd524ea08e5b35f13da09806
+SHA1: 6021474d87c56a7d703fd35e415452eb681dcbae
+SHA256: 2fec063c22673ae9d50792d90e341b4f1cce0dfd530bae256fdb69e4d7731ab4
+Section: Supports IOS12.x
+Description: لتحميل التطبيقات المدفوعة والمكررة والالعاب مجاناً .
+Author: hotsjf
+Icon: file:///Applications/AppCake.app/icon57x57.png
+Name: AppCake Ali
+Pre-Depends: firmware (>= 10.0)
+Sponsor: Ali
+
+Package: com.matchstic.xenhtml
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Filename: ./debs/com.matchstic.xenhtml_1.0.deb
+Size: 1527658
+MD5sum: 0577a30b0d856016d654e4e3d3dea2a4
+SHA1: bcabe181fccc12db927dfd6b320d2e5ef466863e
+SHA256: abda8eb774641dbc60b3e93b137855fde26680c3ea13973db3c7eedd85f431f0
+Section: System
+Description: Unified HTML rendering; lockscreen and homescreen
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: https://xenpublic.incendo.ws/depictions/com.matchstic.xenhtml.html
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Name: Xen HTML
+Priority: optional
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+SileoDepiction: https://xenpublic.incendo.ws/sileo/com.matchstic.xenhtml.json
+dev: Ali
+
+Package: sileoturkiye.cercube
+Version: 5.1.0k
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.7~beta3), sileoturkiye.adblockplus
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, sileoturkiye.youtubetools, com.justinpetkovic.youtubetools
+Filename: ./debs/sileoturkiye.cercube_5.1.0k.deb
+Size: 14561848
+MD5sum: ada3381ca9c9ef5f5abdfe5fc39dcde3
+SHA1: a1987d5ad55f464fb4be22b25caf08f7e27e92a5
+SHA256: 3c7a3cb1f85359c0a3076d10ec6cab4a793f746a7efc7b9fc9ab720ed706739a
+Description: YouTube'den videolar ile daha fazlasını indirin!
+Name: Cercube for YouTube
+
+Package: sileoturkiye.cydown
+Version: 7.0.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cydown
+Filename: ./debs/sileoturkiye.cydown_7.0.1.deb
+Size: 3549680
+MD5sum: 4f1f28692ff13f21f9b01d7d6e9f0838
+SHA1: 44baba65443588b58d6245dd03c674e5a6cd0f7c
+SHA256: cb10b6464b894918b6903064b4ef4bb6bdce14344874af6d3ced11dc7351af2f
+Section: Tweaks
+Description: Cydia İndirme Yöneticisi ve Ekstra Özellikler!
+Author: Ali
+Name: CyDown 
+
