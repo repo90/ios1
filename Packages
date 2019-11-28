@@ -84,3 +84,19 @@ Description: Cydia İndirme Yöneticisi ve Ekstra Özellikler!
 Author: Ali
 Name: CyDown 
 
+Package: com.julioverne.mimport
+Version: 0.0~beta34a
+Architecture: iphoneos-arm
+Maintainer: Ali
+Depends: mobilesubstrate, firmware (>= 6.0), unzip, unrar
+Filename: ./debs/com.julioverne.mimport_0.0~beta34a.deb
+Size: 628510
+MD5sum: 3fedbab5ccdd1f8e21eb58b779821b62
+SHA1: 31a6664506201f3eb3c2dbb93b275e799910a87a
+SHA256: e6407bb1e4487898befe52f8a2fefdec39f4eeb00c1b8fbf7c73acb3ac5e0a64
+Section: Tweaks
+Description: Media Importer Directly From Music App
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
+Name: MImport IQ
+
