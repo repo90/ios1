@@ -1,102 +1,119 @@
-
-Package: com.arab-crack.mediabox
-Version: 2.4.8
+Package: com.creaturecoding.copyvideourl
+Version: 0.0.1-7+debug
 Architecture: iphoneos-arm
 Maintainer: Albasrawi
-Depends: firmware (>= 5.0), mobilesubstrate
-Conflicts: com.pixel.mediabox
-Filename: ./debs/com.arab-crack.mediabox_2.4.8.deb
-Size: 319188
-MD5sum: ff222a0d18f3930ea936b8222312a48d
-SHA1: eaf87732f144885cff23e7721b75ee514e18776e
-SHA256: 42c18344e72589f015fad5daa2f210114e27bd3cf3bac1a5af0f050411f1e7aa
-Section: System
-Description: NO ADS , download here [ http://tiny.cc/MediaBox248 ]
-Author: Ali
-Icon: https://i.ibb.co/z63zcRj/input-onlinepngtools.jpg
-Name: MediaBoxPlus
-
-Package: com.arab-cydia.AppCake6
-Version: 6.0.8-1
-Architecture: iphoneos-arm
-Maintainer: Albasrawi
-Depends: appsync
-Filename: ./debs/com.arab-cydia.appcake6_6.0.8-1.deb
-Size: 20101252
-MD5sum: 82bc06b8bd524ea08e5b35f13da09806
-SHA1: 6021474d87c56a7d703fd35e415452eb681dcbae
-SHA256: 2fec063c22673ae9d50792d90e341b4f1cce0dfd530bae256fdb69e4d7731ab4
-Section: Supports IOS12.x
-Description: لتحميل التطبيقات المدفوعة والمكررة والالعاب مجاناً .
-Author: hotsjf
-Icon: file:///Applications/AppCake.app/icon57x57.png
-Name: AppCake Ali
-Pre-Depends: firmware (>= 10.0)
-Sponsor: Ali
-
-Package: com.matchstic.xenhtml
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Albasrawi
-Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
-Filename: ./debs/com.matchstic.xenhtml_1.0.deb
-Size: 1527658
-MD5sum: 0577a30b0d856016d654e4e3d3dea2a4
-SHA1: bcabe181fccc12db927dfd6b320d2e5ef466863e
-SHA256: abda8eb774641dbc60b3e93b137855fde26680c3ea13973db3c7eedd85f431f0
-Section: System
-Description: Unified HTML rendering; lockscreen and homescreen
-Author: Matt Clarke <matt@incendo.ws>
-Depiction: https://xenpublic.incendo.ws/depictions/com.matchstic.xenhtml.html
-Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
-Name: Xen HTML
-Priority: optional
-Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
-SileoDepiction: https://xenpublic.incendo.ws/sileo/com.matchstic.xenhtml.json
-dev: Ali
-
-Package: sileoturkiye.cercube
-Version: 5.1.0k
-Architecture: iphoneos-arm
-Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.7~beta3), sileoturkiye.adblockplus
-Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, sileoturkiye.youtubetools, com.justinpetkovic.youtubetools
-Filename: ./debs/sileoturkiye.cercube_5.1.0k.deb
-Size: 14561848
-MD5sum: ada3381ca9c9ef5f5abdfe5fc39dcde3
-SHA1: a1987d5ad55f464fb4be22b25caf08f7e27e92a5
-SHA256: 3c7a3cb1f85359c0a3076d10ec6cab4a793f746a7efc7b9fc9ab720ed706739a
-Description: YouTube'den videolar ile daha fazlasını indirin!
-Name: Cercube for YouTube
-
-Package: sileoturkiye.cydown
-Version: 7.0.1
-Architecture: iphoneos-arm
-Maintainer: Albasrawi
-Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Conflicts: com.julioverne.cydown
-Filename: ./debs/sileoturkiye.cydown_7.0.1.deb
-Size: 3549680
-MD5sum: 4f1f28692ff13f21f9b01d7d6e9f0838
-SHA1: 44baba65443588b58d6245dd03c674e5a6cd0f7c
-SHA256: cb10b6464b894918b6903064b4ef4bb6bdce14344874af6d3ced11dc7351af2f
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecoding.copyvideourl_0.0.1-7+debug_iphoneos-arm.deb
+Size: 4700
+MD5sum: 825e84d8aed0a3f308b83f4a83c666c5
+SHA1: 38c2b86d8ef8d00781eccfbd7d6d8019b5616689
+SHA256: d3b4ed2829ddf84591d224f0f9ee7b445ddb6499099219e1cab1f626740b1df8
 Section: Tweaks
-Description: Cydia İndirme Yöneticisi ve Ekstra Özellikler!
+Description: An awesome MobileSubstrate tweak!
 Author: Ali
-Name: CyDown 
+Installed-Size: 200
+Name: CopyVideoURL
 
-Package: com.julioverne.mimport
-Version: 0.0~beta34a
+Package: com.creaturecoding.copyvideourl
+Version: 0.1.0
 Architecture: iphoneos-arm
-Maintainer: Ali
-Depends: mobilesubstrate, firmware (>= 6.0), unzip, unrar
-Filename: ./debs/com.julioverne.mimport_0.0~beta34a.deb
-Size: 628510
-MD5sum: 3fedbab5ccdd1f8e21eb58b779821b62
-SHA1: 31a6664506201f3eb3c2dbb93b275e799910a87a
-SHA256: e6407bb1e4487898befe52f8a2fefdec39f4eeb00c1b8fbf7c73acb3ac5e0a64
+Maintainer: Albasrawi
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecoding.copyvideourl_0.1.0_iphoneos-arm.deb
+Size: 3920
+MD5sum: 72f2558ee6ab9c7cfbab6ce16838cf1d
+SHA1: f6b3f644546f6788986d565cf34fe27271253a4c
+SHA256: 7ce7e8bc1a304276698b02010a58b433cf33730af1ae99d2339d18b946eaef46
 Section: Tweaks
-Description: Media Importer Directly From Music App
-Author: Albasrawi
-Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
-Name: MImport IQ
+Description: Copy URL of currently playing video
+Author: Ali
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.copyvideourl/index.html
+Installed-Size: 200
+Name: CopyVideoURL
 
+Package: com.creaturecoding.fastdel
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecoding.fastdel_0.1_iphoneos-arm.deb
+Size: 47668
+MD5sum: 89cc0278250098a6afa5142ebca1f21a
+SHA1: 1eaa5926bfb1ecda94dfb451475c81268ce9c987
+SHA256: 6d514e63198ef24ccd4a9153a1e5e9987b50edb857ef52cda8c8b82760ebf0ee
+Section: Tweaks
+Description: disable the annoying delete word function and enables rapid character deletion instantly.
+Author: Ali
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.fastdel/index.html
+Installed-Size: 384
+Name: FastDel
+
+Package: com.creaturecoding.fastdel
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecoding.fastdel_0.2_iphoneos-arm.deb
+Size: 50856
+MD5sum: 70fec8a160d957d79da21c4b9ae65a02
+SHA1: fb61e62d9028b3d74c848ca771bd719e40a3ddc8
+SHA256: 0f44977c46085f31f56a44f51c35c620304d9962865b953c7e21d54939ac483e
+Section: Tweaks
+Description: disable the annoying delete word function and enables rapid character deletion instantly.
+Author: Ali
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.fastdel/index.html
+Installed-Size: 460
+Name: FastDel
+
+Package: com.creaturecoding.fastdel
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecoding.fastdel_0.3_iphoneos-arm.deb
+Size: 42790
+MD5sum: c13b9cdaed963bbd3d798c50b27b1acd
+SHA1: 4d7c9a1b128c6d63d31c8d399677a260b9efdc2d
+SHA256: b8c9b961a806857417c05b95814e9ce60e1390703fae5ea8486e2b90396d08b8
+Section: Tweaks
+Description: disable the annoying delete word function and enables rapid character deletion instantly.
+Author: Ali
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.fastdel/index.html
+Installed-Size: 440
+Name: FastDel
+
+Package: com.creaturecoding.switcherradii
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecoding.switcherradii_1.0.0_iphoneos-arm.deb
+Size: 4180
+MD5sum: d621082876eb62cc8bca795b9a1b082d
+SHA1: f0841e606b63eeed70f549c94b21e8346e05ecaf
+SHA256: 1641126fe6d3bf4b7eeccd0ec77bd54fee476a052a6b1cf94e7386bc36ac67e7
+Section: Tweaks
+Description: rounded cards in the app switcher.
+Author: Ali
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.switcherradii/index.html
+Installed-Size: 204
+Name: switcherRadii
+Tag: role::developer
+
+Package: com.creaturecoding.switcherradii
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecoding.switcherradii_1.0.1_iphoneos-arm.deb
+Size: 6932
+MD5sum: 47f0f16261d91a014d4f333525793795
+SHA1: fe759b52d0f060ad4514c5eb5946c1b60adbce70
+SHA256: 54ada9706a86c91e2e994167ba9967cda64f70d0cacec6588b4d47f669b4de86
+Section: Tweaks
+Description: rounded cards in the app switcher.
+Author: Ali
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.switcherradii/index.html
+Installed-Size: 204
+Name: switcherRadii
+Tag: role::developer
