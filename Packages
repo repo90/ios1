@@ -1,7 +1,23 @@
+Package: com.arab-cydia.flightradar24
+Version: 7.5.0-1
+Architecture: iphoneos-arm
+Maintainer: Ali
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.flightradar24_7.5.0-1_iphoneos-arm.deb
+Size: 7342
+MD5sum: 1426f1ef7a5e748571ff270439608e9f
+SHA1: fa6400c867f0a2ec0bcfbecc272668d6c9fc46cc
+SHA256: 8529dde6be706cfa654152bdb13b21665c6d70f732c949c7d5f7f1f9c313adc4
+Section: Apps Hack
+Description: Everything in Silver, Aeronautical Charts, Aviation Weather Layers, More Flight Details, ATC Boundaries, Flight Playback (365 Days & More)
+Author: Ali
+Name: FlightRadar24™ (GOLD)!
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
 Package: com.creaturecoding.copyvideourl
 Version: 0.0.1-7+debug
 Architecture: iphoneos-arm
-Maintainer: Albasrawi
+Maintainer: Ap
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.copyvideourl_0.0.1-7+debug_iphoneos-arm.deb
 Size: 4700
@@ -12,12 +28,12 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Ali
 Installed-Size: 200
-Name: CopyVideoURL
+Name: CopyVideoURL as
 
 Package: com.creaturecoding.copyvideourl
 Version: 0.1.0
 Architecture: iphoneos-arm
-Maintainer: Albasrawi
+Maintainer: Ali
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.copyvideourl_0.1.0_iphoneos-arm.deb
 Size: 3920
@@ -34,7 +50,7 @@ Name: CopyVideoURL
 Package: com.creaturecoding.fastdel
 Version: 0.1
 Architecture: iphoneos-arm
-Maintainer: Albasrawi
+Maintainer: Ali
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.fastdel_0.1_iphoneos-arm.deb
 Size: 47668
@@ -46,12 +62,12 @@ Description: disable the annoying delete word function and enables rapid charact
 Author: Ali
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.fastdel/index.html
 Installed-Size: 384
-Name: FastDel
+Name: FastDeld 
 
 Package: com.creaturecoding.fastdel
 Version: 0.2
 Architecture: iphoneos-arm
-Maintainer: Albasrawi
+Maintainer: ali
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.fastdel_0.2_iphoneos-arm.deb
 Size: 50856
@@ -68,7 +84,7 @@ Name: FastDel
 Package: com.creaturecoding.fastdel
 Version: 0.3
 Architecture: iphoneos-arm
-Maintainer: Albasrawi
+Maintainer: Ali
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.fastdel_0.3_iphoneos-arm.deb
 Size: 42790
@@ -85,7 +101,7 @@ Name: FastDel
 Package: com.creaturecoding.switcherradii
 Version: 1.0.0
 Architecture: iphoneos-arm
-Maintainer: Albasrawi
+Maintainer: Ali
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.switcherradii_1.0.0_iphoneos-arm.deb
 Size: 4180
@@ -103,7 +119,7 @@ Tag: role::developer
 Package: com.creaturecoding.switcherradii
 Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: Albasrawi
+Maintainer: Ali
 Depends: mobilesubstrate
 Filename: ./debs/com.creaturecoding.switcherradii_1.0.1_iphoneos-arm.deb
 Size: 6932
@@ -116,4 +132,4 @@ Author: Ali
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.switcherradii/index.html
 Installed-Size: 204
 Name: switcherRadii
-Tag: role::developer
+
