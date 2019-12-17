@@ -63,7 +63,7 @@ Description: disable the annoying delete word function and enables rapid charact
 Author: Ali
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.fastdel/index.html
 Installed-Size: 384
-Name: FastDeld 
+Name: FastDeld
 
 Package: com.creaturecoding.fastdel
 Version: 0.2
@@ -134,3 +134,21 @@ Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.switc
 Installed-Size: 204
 Name: switcherRadii
 
+Package: com.spark.snowboard
+Version: 1.2.72~Beta1
+Architecture: iphoneos-arm
+Maintainer: aa
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./111/com.spark.snowboard_1.2.72_Beta1_iphoneos-arm.deb
+Size: 1418082
+MD5sum: 1126f7005c377b9fb176bf4a3ebcf251
+SHA1: ed05b2b68a1701ef79cac62f3b32c5ae70847ff2
+SHA256: 7d9ba5ce960adcd52d687ec82b5bdd0e8104c1f6197fa7ec2f8dc3749d7b0279
+Section: Tweaks
+Description: Snowboard theming engine
+Author: a
+Installed-Size: 4212
+Name: SnowBoard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
