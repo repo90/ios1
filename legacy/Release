@@ -1,0 +1,17 @@
+Origin: xTM3x Legacy Repo
+Label: xTM3x Legacy Repo
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: iphoneos-arm
+Components: main
+Description: Cydia repository for all of my old tweaks. https://xtm3x.github.io/repo is my new repo.
+MD5Sum:
+ 9298a583663a6bfb62b71bfb6c92368f 17445 Packages
+ b523e2af3977b474880850ff0df4d59e 4387 Packages.bz2
+SHA1:
+ bb3f72ac7252b881250a7ca0e29aa63216be4876 17445 Packages
+ f4ae38b1128272ba65992c088c37f2bb2e891279 4387 Packages.bz2
+SHA256:
+ 3144834efbef9818fe204726975d1909524a02551e2ae6b42dab9af9a42a1137 17445 Packages
+ 7876ed6cbbf7c37c2d1227c4ce37591061e3ab03de84006402bcad58b321173a 4387 Packages.bz2

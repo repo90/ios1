@@ -1,9 +1,0 @@
-Origin: IQ' Repo
-Label: ALI Repo
-Suite: stable
-Version: 1.0
-Codename: Albasrawi Repo
-Architectures: iphoneos-arm
-Components: main
-Description: My Personal Repo
-Icon: file://CydiaIcon.png
