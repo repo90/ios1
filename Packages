@@ -14,24 +14,6 @@ Description: أداة لقفل التطبيقات والملفات والاعد�
 Author: Elias Limneos
 Name: BioProtect XS Ali
 
-Package: me.pulandresk.dleasy
-Version: 92.7.5-1k
-Architecture: iphoneos-arm
-Maintainer: Ali <aliiosapp@gmail.com>
-Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.ouraigua.jodebox
-Conflicts: me.ahmedbafkir.dleasy, me.pulandres.dleasy
-Replaces: sileoturkiye.dleasy
-Filename: ./debs/me.pulandresk.dleasy_92.7.5-1k_iphoneos-arm.deb
-Size: 3066496
-MD5sum: b8ed68dc436db69a8755e0f41779125a
-SHA1: d909ffe025833dcd8a5723c710f20b536bdab9ec
-SHA256: 337e8e34c19a0c486581507d6a0afcecb4051ef65f9c5de6a92c1eb7fe510779
-Section: Tweaks
-Depiction: https://repo90.github.io/ios/depictions/?p=me.pulandresk.dleasy_92.7.5-1k_iphoneos-arm
-Description: لتحميل الصور والفيديوات من تطبيقات التواصل الاجتماعي !
-Author: Ali
-Name: DLEasy Cracked By Albasrawi
-
 Package: ru.rejail.apptools
 Version: 1.6.0k
 Architecture: iphoneos-arm
