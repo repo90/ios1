@@ -104,7 +104,7 @@ SHA256: 7948cb28729954463726cff74dedda6fbafe61002d0ad6008f05b4c535f5af23
 Section: Tweaks
 Description: Download/Share images & videos from social apps easily!
 Author: Ali
-Depiction: https://repo90.github.io/ios/depictions/?p=me.ahmedbafkir.dleasy_2.9.1_iphoneos-arm
+Depiction: https://repo90.github.io/ios1/depictions/?p=me.ahmedbafkir.dleasy_2.9.1_iphoneos-arm
 Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
 Installed-Size: 10640
 Name: DLEasy Cracked By Albasrawi
@@ -120,7 +120,7 @@ MD5sum: 483ee6149e539ce31afffa59c8880528
 SHA1: 20514330acd718cf95b8ffb3816f6c1660f7fe65
 SHA256: ad5798646107102dfde09f29d83689703fffda0985472dfad2862663e8ec50df
 Section: Tweaks
-Depiction: https://repo90.github.io/ios/depictions/?p=me.nepeta.relocate_0.1.11_iphoneos-arm
+Depiction: https://repo90.github.io/ios1/depictions/?p=me.nepeta.relocate_0.1.11_iphoneos-arm
 Description: Minimalist GPS spoofer (free)
 Author: Ali
 Installed-Size: 552
@@ -138,8 +138,8 @@ MD5sum: 7231014fd36383bc396dea91412b004e
 SHA1: b2a6a5b4b0c94edb180b2f6514abee94c5059165
 SHA256: 8b351a1835d8d2a8b519c0d360695e4da4286c265066d43f0c46880a5bb9a3d6
 Section: Tweaks
-Depiction: https://repo90.github.io/ios/depictions/?p=me.nepeta.unsub_0.1.9_iphoneos-arm
+Depiction: https://repo90.github.io/ios1/depictions/?p=me.nepeta.unsub_0.1.9_iphoneos-arm
 Description: Disable tweak injection (Substrate/Substitute) in certain apps.
-Author: Ali 
+Author: Ali
 Installed-Size: 624
 Name: UnSub
