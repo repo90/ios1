@@ -1,0 +1,25 @@
+<package>
+	<id>com.arab-cydia.dylibdisabler3_3.0-0-1_iphoneos-arm</id>
+	<name>dylibdisabler</name>
+	<version>3.0-0-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11</miniOS>
+			<maxiOS>13</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>tweak</shortDescription>
+	<descriptionlist>
+		<description>أداة لأيقاف الادوات دون حذفها </description>
+		<description>Supports iOS 11 - 13</description>
+	</descriptionlist>
+	<screenshots>cydia.jpg</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
