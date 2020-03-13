@@ -1,0 +1,25 @@
+<package>
+	<id>com.ichitaso.powerselector11_1.2.6_iphoneos-arm</id>
+	<name>powerselector11</name>
+	<version>1.2.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11</miniOS>
+			<maxiOS>13</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>test tweak</shortDescription>
+	<descriptionlist>
+		<description>Ali test</description>
+		<description>Supports iOS 11 - 13</description>
+	</descriptionlist>
+	<screenshots>cydia.jpg</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

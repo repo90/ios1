@@ -1,0 +1,12 @@
+<changelog>
+	<changes>
+		<version>sileoturkiye.bioprotectxs_4.3-22k_iphoneos-arm</version>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changes>
+	<changes>
+		<version>1.0.0-1</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>

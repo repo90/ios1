@@ -1,154 +1,92 @@
-Package: com.arab-cydia.flightradar24
-Version: 7.5.0-1
+Package: sileoturkiye.bioprotectxs
+Version: 4.3-22k
 Architecture: iphoneos-arm
-Maintainer: Ali
-Depends: mobilesubstrate
-Filename: ./debs/com.arab-cydia.flightradar24_7.5.0-1_iphoneos-arm.deb
-Size: 7342
-MD5sum: 1426f1ef7a5e748571ff270439608e9f
-SHA1: fa6400c867f0a2ec0bcfbecc272668d6c9fc46cc
-SHA256: 8529dde6be706cfa654152bdb13b21665c6d70f732c949c7d5f7f1f9c313adc4
-Section: Apps Hack
-Depiction: https://repo90.github.io/depictions/com.arab-cydia.flightradar24/index.html
-Description: Everything in Silver, Aeronautical Charts, Aviation Weather Layers, More Flight Details, ATC Boundaries, Flight Playback (365 Days & More)
-Author: Ali
-Name: FlightRadar24™ (GOLD)!
-Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
-
-Package: com.creaturecoding.copyvideourl
-Version: 0.0.1-7+debug
-Architecture: iphoneos-arm
-Maintainer: Ap
-Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.copyvideourl_0.0.1-7+debug_iphoneos-arm.deb
-Size: 4700
-MD5sum: 825e84d8aed0a3f308b83f4a83c666c5
-SHA1: 38c2b86d8ef8d00781eccfbd7d6d8019b5616689
-SHA256: d3b4ed2829ddf84591d224f0f9ee7b445ddb6499099219e1cab1f626740b1df8
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
+Filename: ./debs/sileoturkiye.bioprotectxs_4.3-22k_iphoneos-arm.deb
+Size: 774426
+MD5sum: 40b46573ab10be7976b01ce8082691be
+SHA1: 7e8fb1f947b952eb3fbc1d4ee018871c15be2994
+SHA256: 93500c54c0156c9359eb7378bed44fac46271f13ec8d74434e27a6139a1c6743
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Ali
-Installed-Size: 200
-Name: CopyVideoURL as
+Description: أداة لقفل التطبيقات والملفات والاعدادات بالبصمة
+Author: Elias Limneos
+Name: BioProtect XS Ali
 
-Package: com.creaturecoding.copyvideourl
-Version: 0.1.0
+Package: me.pulandresk.dleasy
+Version: 92.7.5-1k
 Architecture: iphoneos-arm
-Maintainer: Ali
-Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.copyvideourl_0.1.0_iphoneos-arm.deb
-Size: 3920
-MD5sum: 72f2558ee6ab9c7cfbab6ce16838cf1d
-SHA1: f6b3f644546f6788986d565cf34fe27271253a4c
-SHA256: 7ce7e8bc1a304276698b02010a58b433cf33730af1ae99d2339d18b946eaef46
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.ouraigua.jodebox
+Conflicts: me.ahmedbafkir.dleasy, me.pulandres.dleasy
+Replaces: sileoturkiye.dleasy
+Filename: ./debs/me.pulandresk.dleasy_92.7.5-1k_iphoneos-arm.deb
+Size: 3066496
+MD5sum: b8ed68dc436db69a8755e0f41779125a
+SHA1: d909ffe025833dcd8a5723c710f20b536bdab9ec
+SHA256: 337e8e34c19a0c486581507d6a0afcecb4051ef65f9c5de6a92c1eb7fe510779
 Section: Tweaks
-Description: Copy URL of currently playing video
+Depiction: https://repo90.github.io/ios/depictions/?p=me.pulandresk.dleasy_92.7.5-1k_iphoneos-arm
+Description: لتحميل الصور والفيديوات من تطبيقات التواصل الاجتماعي !
 Author: Ali
-Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.copyvideourl/index.html
-Installed-Size: 200
-Name: CopyVideoURL
+Name: DLEasy Cracked By Albasrawi
 
-Package: com.creaturecoding.fastdel
-Version: 0.1
+Package: ru.rejail.apptools
+Version: 1.6.0k
 Architecture: iphoneos-arm
-Maintainer: Ali
-Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.fastdel_0.1_iphoneos-arm.deb
-Size: 47668
-MD5sum: 89cc0278250098a6afa5142ebca1f21a
-SHA1: 1eaa5926bfb1ecda94dfb451475c81268ce9c987
-SHA256: 6d514e63198ef24ccd4a9153a1e5e9987b50edb857ef52cda8c8b82760ebf0ee
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/ru.rejail.apptools_1.6.0k_iphoneos-arm.deb
+Size: 609370
+MD5sum: 83236acf216735ba1715b5bb5eb46618
+SHA1: 9cac33fe72397b5398938f86315f979aa62c38db
+SHA256: 7367dd52221dd7f707a13c1d45c47f63139f73fce28b8e6ff0dcae26919c0601
 Section: Tweaks
-Description: disable the annoying delete word function and enables rapid character deletion instantly.
+Description: خيارات عدة تظهر عند السحب للاعلى او الاسفل مثل عرض مسار التطبيق او اعادوة تسمية او ازالة الاشعارات وغيرها
 Author: Ali
-Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.fastdel/index.html
-Installed-Size: 384
-Name: FastDeld
+Icon: file:///Library/PreferenceBundles/AppTools.bundle/icon@2x.png
+Installed-Size: 1999
+Name: AppTools (11-12)
 
-Package: com.creaturecoding.fastdel
-Version: 0.2
+Package: ru.rejail.cercube
+Version: 5.1.10k
 Architecture: iphoneos-arm
-Maintainer: ali
-Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.fastdel_0.2_iphoneos-arm.deb
-Size: 50856
-MD5sum: 70fec8a160d957d79da21c4b9ae65a02
-SHA1: fb61e62d9028b3d74c848ca771bd719e40a3ddc8
-SHA256: 0f44977c46085f31f56a44f51c35c620304d9962865b953c7e21d54939ac483e
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap, ru.rejail.adblockplus
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Filename: ./debs/ru.rejail.cercube_5.1.10k_iphoneos-arm.deb
+Size: 8397966
+MD5sum: af4b52bc258ca04bfb5c518bdec7aabb
+SHA1: e6d1efe8f183389b95985474cc822e74cc129e4c
+SHA256: d55a13d027cc57a2496e7b633d819daf7fffa6f9e58595613ae0ad630201a14b
 Section: Tweaks
-Description: disable the annoying delete word function and enables rapid character deletion instantly.
+Description: أداة لأضافة خصائص متعددة لتطبيق اليوتيوب منها تحميل الفيديوات بعدة صيغ مع امكانية نقلها للصور والموسيقى
+Author: Albasrawi
+Depiction: https://repo90.github.io/ios/depictions/?p=me.ru.rejail.cercube_5.1.10k_iphoneos-arm
+Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Installed-Size: 33587
+Name: Cercube for YouTube By Albasrawi
+Priority: optional
+
+Package: com.ichitaso.powerselector11
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/com.ichitaso.powerselector11_1.2.6_iphoneos-arm.deb
+Size: 204154
+MD5sum: c00cc4066ef34eb5e3171025d98e9ca1
+SHA1: 8407b8619d3af49b34ee6b7b110ba626d8f62164
+SHA256: 0871d3222d1922530490e35c0085ca5d94a47837a952875ecaff543827337cde
+Section: Utilities
+Description: The power supply relation of a device is operated.
 Author: Ali
-Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.fastdel/index.html
-Installed-Size: 460
-Name: FastDel
-
-Package: com.creaturecoding.fastdel
-Version: 0.3
-Architecture: iphoneos-arm
-Maintainer: Ali
-Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.fastdel_0.3_iphoneos-arm.deb
-Size: 42790
-MD5sum: c13b9cdaed963bbd3d798c50b27b1acd
-SHA1: 4d7c9a1b128c6d63d31c8d399677a260b9efdc2d
-SHA256: b8c9b961a806857417c05b95814e9ce60e1390703fae5ea8486e2b90396d08b8
-Section: Tweaks
-Description: disable the annoying delete word function and enables rapid character deletion instantly.
-Author: Ali
-Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.fastdel/index.html
-Installed-Size: 440
-Name: FastDel
-
-Package: com.creaturecoding.switcherradii
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Ali
-Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.switcherradii_1.0.0_iphoneos-arm.deb
-Size: 4180
-MD5sum: d621082876eb62cc8bca795b9a1b082d
-SHA1: f0841e606b63eeed70f549c94b21e8346e05ecaf
-SHA256: 1641126fe6d3bf4b7eeccd0ec77bd54fee476a052a6b1cf94e7386bc36ac67e7
-Section: Tweaks
-Description: rounded cards in the app switcher.
-Author: Ali
-Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.switcherradii/index.html
-Installed-Size: 204
-Name: switcherRadii
-Tag: role::developer
-
-Package: com.creaturecoding.switcherradii
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Ali
-Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.switcherradii_1.0.1_iphoneos-arm.deb
-Size: 6932
-MD5sum: 47f0f16261d91a014d4f333525793795
-SHA1: fe759b52d0f060ad4514c5eb5946c1b60adbce70
-SHA256: 54ada9706a86c91e2e994167ba9967cda64f70d0cacec6588b4d47f669b4de86
-Section: Tweaks
-Description: rounded cards in the app switcher.
-Author: Ali
-Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.switcherradii/index.html
-Installed-Size: 204
-Name: switcherRadii
-
-Package: com.spark.snowboard
-Version: 1.2.72~Beta1
-Architecture: iphoneos-arm
-Maintainer: aa
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./111/com.spark.snowboard_1.2.72_Beta1_iphoneos-arm.deb
-Size: 1418082
-MD5sum: 1126f7005c377b9fb176bf4a3ebcf251
-SHA1: ed05b2b68a1701ef79cac62f3b32c5ae70847ff2
-SHA256: 7d9ba5ce960adcd52d687ec82b5bdd0e8104c1f6197fa7ec2f8dc3749d7b0279
-Section: Tweaks
-Description: Snowboard theming engine
-Author: a
-Installed-Size: 4212
-Name: SnowBoard
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depiction: https://repo90.github.io/ios/depictions/?p=me.com.ichitaso.powerselector11_1.2.6_iphoneos-arm
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+Installed-Size: 1860
+Name: PowerSelector (iOS 11 to 13)
+Pre-Depends: firmware (>= 11.0)
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
