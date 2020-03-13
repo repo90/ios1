@@ -12,9 +12,9 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>test tweak</shortDescription>
+	<shortDescription>tweak</shortDescription>
 	<descriptionlist>
-		<description>Ali test</description>
+		<description>أداة لأضافة خصائص الريسبنغ والريستارت وغيرها الى مركز التحكم الاداة مفيدة يجب تثبيتها</description>
 		<description>Supports iOS 11 - 13</description>
 	</descriptionlist>
 	<screenshots>cydia.jpg</screenshots>
