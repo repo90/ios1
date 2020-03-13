@@ -139,7 +139,7 @@ MD5sum: 40e1d3b41ed4a1c5e9669e451c34225d
 SHA1: ce2847a2620c886d40be7e0a93ed379a95a9c784
 SHA256: 28ef014a449b9a5780acccd747a8c71d7ae09917b4e2750fe229266ab433a0f2
 Section: Tweak
-Depiction: https://repo90.github.io/ios/depictions/?p=com.arab-cydia.dylibdisabler3_3.0-0-1_iphoneos-arm
+Depiction: https://repo90.github.io/ios1/depictions/?p=com.arab-cydia.dylibdisabler3_3.0-0-1_iphoneos-arm
 Description:تعطيل الادوات مؤقتا
 Author: Ali
 Name: DylibDisabler 3
