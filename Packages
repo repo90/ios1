@@ -163,3 +163,55 @@ Depiction: https://repo90.github.io/ios1/depictions/?p=com.julioverne.mimport_0.
 Homepage: http://twitter.com/ijulioverne
 Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
 Name: MImport
+
+Package: apt7
+Version: 1:0-2
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: apt1.4
+Filename: ./debs/apt7_0-2_iphoneos-arm.deb
+Size: 862
+MD5sum: a4a6cd5f40da79835ff2d61acb4bf7ab
+SHA1: 0b4b97912b9877b248d43121831fcfed7e6b715e
+SHA256: d5277bbf3bc95881d9e078965a48edc5b56e033c54bcafa3909d5656315c9cdb
+Section: Packaging
+Description: the advanced packaging tool from Debian
+Name: APT 0.7 Transitional
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: standard
+
+Package: com.pulandres.bckup
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 10.0), gawk, coreutils-bin, zip, bash, dpkg, apt7, shell-cmds, unzip
+Filename: ./debs/com.pulandres.bckup_1.7.1_iphoneos-arm.deb
+Size: 6521516
+MD5sum: 138216a8cd50c3552179a852b26ecc1d
+SHA1: 4257a4a827220a4d192accb9596cf26416524f34
+SHA256: b1a9378cbfefdebe5a6ba5327b0238f52e845ae0323e4e450fa16830bde9b617
+Section: Tweaks
+Description: Backup all your tweaks and preferences
+Author: Ali
+Depiction: Depiction: https://repo90.github.io/ios/depictions/?p=com.pulandres.bckup_1.7.1_iphoneos-arm
+Icon: https://repo.packix.com/api/Packages/5ae6b6cd412e8f6ed3f6b6d6/icon/download?size=medium
+Name: BackupAZ 3 (iOS 10 - 13) Cracked
+
+Package: gawk
+Version: 4.2.1-1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Filename: ./debs/gawk_4.2.1-1_iphoneos-arm.deb
+Size: 255388
+MD5sum: 12759052538b65c2d84b035a605c4187
+SHA1: 8e98a73d5597134a07115f90181c668a15dad63b
+SHA256: 684a3dfe585766c04f5544a7f308f365f54faba6d2cc2318d04453d12a6ff55b
+Section: Utilities
+Description: GNU's heavy-weight implementation of awk
+Depiction: Depiction: https://repo90.github.io/ios/depictions/?p=gawk_4.2.1-1_iphoneos-arm
+Homepage: http://www.gnu.org/software/gawk/
+Installed-Size: 2952
+Multi-Arch: foreign
+Name: Gawk
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: important

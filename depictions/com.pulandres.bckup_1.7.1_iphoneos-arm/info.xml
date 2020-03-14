@@ -1,0 +1,25 @@
+<package>
+	<id>com.pulandres.bckup_1.7.1_iphoneos-arm</id>
+	<name>bckup</name>
+	<version>1.7.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11</miniOS>
+			<maxiOS>13</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>test tweak</shortDescription>
+	<descriptionlist>
+		<description>تطبيق يمكن من خلاله عمل نسخة احتياطية للكثير من العناصر واستعادتها لاحقا مثل حزم ومصادر سيديا وسيلو والكثير</description>
+		<description>Supports iOS 11 - 13</description>
+	</descriptionlist>
+	<screenshots>cydia.jpg</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
