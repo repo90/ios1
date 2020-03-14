@@ -193,7 +193,7 @@ SHA256: b1a9378cbfefdebe5a6ba5327b0238f52e845ae0323e4e450fa16830bde9b617
 Section: Tweaks
 Description: Backup all your tweaks and preferences
 Author: Ali
-Depiction: Depiction: https://repo90.github.io/ios/depictions/?p=com.pulandres.bckup_1.7.1_iphoneos-arm
+Depiction: Depiction: https://repo90.github.io/ios1/depictions/?p=com.pulandres.bckup_1.7.1_iphoneos-arm
 Icon: https://repo.packix.com/api/Packages/5ae6b6cd412e8f6ed3f6b6d6/icon/download?size=medium
 Name: BackupAZ 3 (iOS 10 - 13) Cracked
 
@@ -208,7 +208,7 @@ SHA1: 8e98a73d5597134a07115f90181c668a15dad63b
 SHA256: 684a3dfe585766c04f5544a7f308f365f54faba6d2cc2318d04453d12a6ff55b
 Section: Utilities
 Description: GNU's heavy-weight implementation of awk
-Depiction: Depiction: https://repo90.github.io/ios/depictions/?p=gawk_4.2.1-1_iphoneos-arm
+Depiction: Depiction: https://repo90.github.io/ios1/depictions/?p=gawk_4.2.1-1_iphoneos-arm
 Homepage: http://www.gnu.org/software/gawk/
 Installed-Size: 2952
 Multi-Arch: foreign
