@@ -145,3 +145,21 @@ Author: Ali
 Name: DylibDisabler 3
 Priority: optional
 Sponsor: Arab-Cydia <https://www.arab-cydia.com/repo/>
+
+Package: com.julioverne.mimport
+Version: 0.0~beta36
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 6.0), unzip, unrar
+Filename: ./debs/com.julioverne.mimport_0.0~beta36_iphoneos-arm.deb
+Size: 1033394
+MD5sum: e31ecf63a5876f9a9712d7950e62da47
+SHA1: 7be58258a81cfad21ccdca870fb34cbfbb4c2b56
+SHA256: 95f7e0f81fa080521746951b9f0c078a4a4ac0decd0506034d62822ef84b6abf
+Section: Tweaks
+Description: Media Importer Directly From Music App
+Author: Ali
+Depiction: https://repo90.github.io/ios1/depictions/?p=com.julioverne.mimport
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
+Name: MImport
