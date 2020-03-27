@@ -73,24 +73,6 @@ Name: PowerSelector (iOS 11 to 13)
 Pre-Depends: firmware (>= 11.0)
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 
-Package: me.ahmedbafkir.dleasy
-Version: 2.9.1
-Architecture: iphoneos-arm
-Maintainer: Ali <aliiosapp@gmail.com>
-Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
-Filename: ./debs/me.ahmedbafkir.dleasy_2.9.1_iphoneos-arm.deb
-Size: 1849088
-MD5sum: ba6207b2767b1ac4012cbf2f881e73e1
-SHA1: becc51e41387e35aa693758461f89fd8ec4e6b18
-SHA256: 7948cb28729954463726cff74dedda6fbafe61002d0ad6008f05b4c535f5af23
-Section: Tweaks
-Description: Download/Share images & videos from social apps easily!
-Author: Ali
-Depiction: https://repo90.github.io/ios1/depictions/?p=me.ahmedbafkir.dleasy_2.9.1_iphoneos-arm
-Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
-Installed-Size: 10640
-Name: DLEasy Cracked By Albasrawi
-
 Package: me.nepeta.relocate
 Version: 0.1.11
 Architecture: iphoneos-arm
@@ -215,3 +197,59 @@ Multi-Arch: foreign
 Name: Gawk
 Pre-Depends: dpkg (>= 1.14.25-8)
 Priority: important
+
+Package: com.abcydia.netcontrol
+Version: 1.0.1-6
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: ./debs/com.abcydia.netcontrol_1.0.1-6_iphoneos-arm.deb
+Size: 651622
+MD5sum: 6fdfc8de76484b1f4da523ec31d1cd0e
+SHA1: 8c32e3d4e52a15d200477cac291956ee4de79e59
+SHA256: 3965a46c9c93976800f4fb6d62e3b53c445f2b89e2e7ce8333c5e4543751a3ce
+Section: Tweaks
+Description: أداة لقطع الانترنت عن التطبيقات
+Author: Ali Albasrawi
+Depiction: Depiction: https://repo90.github.io/ios1/depictions/?p=com.abcydia.netcontrol_1.0.1-6_iphoneos-arm
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=netcontrolDp
+Icon: file:///Library/PreferenceBundles/NetControl.bundle/abcydia@2x.png
+Installed-Size: 2415
+Name: NetControl By Albasrawi
+Priority: optional
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+
+Package: com.laughingquoll.prysm
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Filename: ./debs/com.laughingquoll.prysm_1.5_iphoneos-arm.deb
+Size: 252628
+MD5sum: cdb53b134f0d26c66e608898df63ed50
+SHA1: 92251b2023ce90b77e989e41109ecf37274860cb
+SHA256: e89676d61a1c7feb944f5baddfc95c04df4c35ee0c158dbc69d9f53b75e22334
+Depiction: https://repo90.github.io/ios1/depictions/?p=com.laughingquoll.prysm_1.5_iphoneos-arm
+Section: Tweaks
+Description: أداة لتغيير مركز التحكم بشكل جذري .
+Author: LaughingQuoll
+Installed-Size: 2156
+Name: Prysm
+
+Package: com.noisyflake.magmaevo
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, org.thebigboss.libcolorpicker (>= 1.6.7)
+Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
+Filename: ./debs/com.noisyflake.magmaevo_1.2.3_iphoneos-arm.deb
+Size: 100572
+MD5sum: 7ae5e2eda6453a7d3f42007fcfc9f305
+SHA1: 8536e7fca9f0fa73962167b263a809c264162e73
+SHA256: 1b1642ee868747be88ab8436b731d8ce366512737f9ba30df8a9042a82aa4a72
+Depiction: https://repo90.github.io/ios1/depictions/?p=com.noisyflake.magmaevo_1.2.3_iphoneos-arm
+Section: Tweaks
+Description: Redefine your Control Center
+Author: علي البصراوي
+Installed-Size: 600
+Name: Magma Evo
