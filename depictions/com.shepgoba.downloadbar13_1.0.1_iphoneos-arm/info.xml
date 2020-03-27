@@ -1,0 +1,25 @@
+<package>
+	<id>com.shepgoba.downloadbar13_1.0.1_iphoneos-arm</id>
+	<name>downloadbar13</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13</miniOS>
+			<maxiOS>13</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>tweak</shortDescription>
+	<descriptionlist>
+		<description>أداة لعرض نسبة تحميل التطبيق متوافق مع اصدار 13</description>
+		<description>Supports iOS 13</description>
+	</descriptionlist>
+	<screenshots>cydia.jpg</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

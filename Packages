@@ -253,3 +253,20 @@ Description: Redefine your Control Center
 Author: علي البصراوي
 Installed-Size: 600
 Name: Magma Evo
+
+Package: com.shepgoba.downloadbar13
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: علي البصراوي
+Depends: mobilesubstrate
+Filename: ./debs/com.shepgoba.downloadbar13_1.0.1_iphoneos-arm.deb
+Size: 5268
+MD5sum: 2e39cc55d031fc5f3211f88c83e81d01
+SHA1: 1766f116aad58fae7e04cb3cbe8ca0af1ccbf144
+SHA256: 68882fd0703b02737464a857432726a9a7115eb0aca8c0381b78e6517ad932e1
+Depiction: https://repo90.github.io/ios1/depictions/?p=com.shepgoba.downloadbar13_1.0.1_iphoneos-arm
+Section: Tweaks
+Description: Show a progress bar for downloading apps instead!
+Author: Ali <aliiosapp@gmail.com>
+Installed-Size: 136
+Name: DownloadBar13
