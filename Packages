@@ -1,155 +1,7 @@
-Package: sileoturkiye.bioprotectxs
-Version: 4.3-22k
-Architecture: iphoneos-arm
-Maintainer: Albasrawi <aliiosapp@gmail.com>
-Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
-Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
-Filename: ./debs/sileoturkiye.bioprotectxs_4.3-22k_iphoneos-arm.deb
-Size: 774426
-MD5sum: 40b46573ab10be7976b01ce8082691be
-SHA1: 7e8fb1f947b952eb3fbc1d4ee018871c15be2994
-SHA256: 93500c54c0156c9359eb7378bed44fac46271f13ec8d74434e27a6139a1c6743
-Section: Tweaks
-Description: أداة لقفل التطبيقات والملفات والاعدادات بالبصمة
-Author: Elias Limneos
-Name: BioProtect XS Ali
-
-Package: ru.rejail.apptools
-Version: 1.6.0k
-Architecture: iphoneos-arm
-Maintainer: Ali <aliiosapp@gmail.com>
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/ru.rejail.apptools_1.6.0k_iphoneos-arm.deb
-Size: 609370
-MD5sum: 83236acf216735ba1715b5bb5eb46618
-SHA1: 9cac33fe72397b5398938f86315f979aa62c38db
-SHA256: 7367dd52221dd7f707a13c1d45c47f63139f73fce28b8e6ff0dcae26919c0601
-Section: Tweaks
-Description: خيارات عدة تظهر عند السحب للاعلى او الاسفل مثل عرض مسار التطبيق او اعادوة تسمية او ازالة الاشعارات وغيرها
-Author: Ali
-Icon: file:///Library/PreferenceBundles/AppTools.bundle/icon@2x.png
-Installed-Size: 1999
-Name: AppTools (11-12)
-
-Package: ru.rejail.cercube
-Version: 5.1.10k
-Architecture: iphoneos-arm
-Maintainer: Ali <aliiosapp@gmail.com>
-Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap, ru.rejail.adblockplus
-Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
-Filename: ./debs/ru.rejail.cercube_5.1.10k_iphoneos-arm.deb
-Size: 8397966
-MD5sum: af4b52bc258ca04bfb5c518bdec7aabb
-SHA1: e6d1efe8f183389b95985474cc822e74cc129e4c
-SHA256: d55a13d027cc57a2496e7b633d819daf7fffa6f9e58595613ae0ad630201a14b
-Section: Tweaks
-Description: أداة لأضافة خصائص متعددة لتطبيق اليوتيوب منها تحميل الفيديوات بعدة صيغ مع امكانية نقلها للصور والموسيقى
-Author: Albasrawi
-Depiction: https://repo90.github.io/ios/depictions/?p=ru.rejail.cercube_5.1.10k_iphoneos-arm
-Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
-Installed-Size: 33587
-Name: Cercube for YouTube By Albasrawi
-Priority: optional
-
-Package: com.ichitaso.powerselector11
-Version: 1.2.6
-Architecture: iphoneos-arm
-Maintainer: Ali <aliiosapp@gmail.com>
-Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
-Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
-Replaces: com.ichitaso.powerselector11
-Filename: ./debs/com.ichitaso.powerselector11_1.2.6_iphoneos-arm.deb
-Size: 204154
-MD5sum: c00cc4066ef34eb5e3171025d98e9ca1
-SHA1: 8407b8619d3af49b34ee6b7b110ba626d8f62164
-SHA256: 0871d3222d1922530490e35c0085ca5d94a47837a952875ecaff543827337cde
-Section: Utilities
-Description: The power supply relation of a device is operated.
-Author: Ali
-Depiction: https://repo90.github.io/ios/depictions/?p=com.ichitaso.powerselector11_1.2.6_iphoneos-arm
-Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
-Installed-Size: 1860
-Name: PowerSelector (iOS 11 to 13)
-Pre-Depends: firmware (>= 11.0)
-Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
-
-Package: me.nepeta.relocate
-Version: 0.1.11
-Architecture: iphoneos-arm
-Maintainer: Ali <aliiosapp@gmail.com>
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7)
-Filename: ./debs/me.nepeta.relocate_0.1.11_iphoneos-arm.deb
-Size: 94710
-MD5sum: 483ee6149e539ce31afffa59c8880528
-SHA1: 20514330acd718cf95b8ffb3816f6c1660f7fe65
-SHA256: ad5798646107102dfde09f29d83689703fffda0985472dfad2862663e8ec50df
-Section: Tweaks
-Depiction: https://repo90.github.io/ios1/depictions/?p=me.nepeta.relocate_0.1.11_iphoneos-arm
-Description: Minimalist GPS spoofer (free)
-Author: Ali
-Installed-Size: 552
-Name: Relocate
-
-Package: me.nepeta.unsub
-Version: 0.1.9
-Architecture: iphoneos-arm
-Maintainer: Ali <aliiosapp@gmail.com>
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
-Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
-Filename: ./debs/me.nepeta.unsub_0.1.9_iphoneos-arm.deb
-Size: 41206
-MD5sum: 7231014fd36383bc396dea91412b004e
-SHA1: b2a6a5b4b0c94edb180b2f6514abee94c5059165
-SHA256: 8b351a1835d8d2a8b519c0d360695e4da4286c265066d43f0c46880a5bb9a3d6
-Section: Tweaks
-Depiction: https://repo90.github.io/ios1/depictions/?p=me.nepeta.unsub_0.1.9_iphoneos-arm
-Description: Disable tweak injection (Substrate/Substitute) in certain apps.
-Author: Ali
-Installed-Size: 624
-Name: UnSub
-
-Package: com.arab-cydia.dylibdisabler3
-Version: 3.0-0-1
-Architecture: iphoneos-arm
-Maintainer: Ali <aliiosapp@gmail.com>
-Depends: firmware (>= 10.0)
-Conflicts: us.nakedproductions.dylibdisabler, us.nakedproductions.dylibdisabler2
-Replaces: us.nakedproductions.dylibdisabler3
-Filename: ./debs/com.arab-cydia.dylibdisabler3_3.0-0-1_iphoneos-arm.deb
-Size: 666828
-MD5sum: 40e1d3b41ed4a1c5e9669e451c34225d
-SHA1: ce2847a2620c886d40be7e0a93ed379a95a9c784
-SHA256: 28ef014a449b9a5780acccd747a8c71d7ae09917b4e2750fe229266ab433a0f2
-Section: Tweak
-Depiction: https://repo90.github.io/ios1/depictions/?p=com.arab-cydia.dylibdisabler3_3.0-0-1_iphoneos-arm
-Description:تعطيل الادوات مؤقتا
-Author: Ali
-Name: DylibDisabler 3
-Priority: optional
-Sponsor: Arab-Cydia <https://www.arab-cydia.com/repo/>
-
-Package: com.julioverne.mimport
-Version: 0.0~beta36
-Architecture: iphoneos-arm
-Maintainer: Ali <aliiosapp@gmail.com>
-Depends: mobilesubstrate, firmware (>= 6.0), unzip, unrar
-Filename: ./debs/com.julioverne.mimport_0.0~beta36_iphoneos-arm.deb
-Size: 1033394
-MD5sum: e31ecf63a5876f9a9712d7950e62da47
-SHA1: 7be58258a81cfad21ccdca870fb34cbfbb4c2b56
-SHA256: 95f7e0f81fa080521746951b9f0c078a4a4ac0decd0506034d62822ef84b6abf
-Section: Tweaks
-Description: Media Importer Directly From Music App
-Author: Ali
-Depiction: https://repo90.github.io/ios1/depictions/?p=com.julioverne.mimport_0.0~beta36_iphoneos-arm
-Homepage: http://twitter.com/ijulioverne
-Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
-Name: MImport
-
 Package: apt7
 Version: 1:0-2
 Architecture: iphoneos-arm
-Maintainer: Ali <aliiosapp@gmail.com>
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Depends: apt1.4
 Filename: ./debs/apt7_0-2_iphoneos-arm.deb
 Size: 862
@@ -162,46 +14,10 @@ Name: APT 0.7 Transitional
 Pre-Depends: dpkg (>= 1.14.25-8)
 Priority: standard
 
-Package: com.pulandres.bckup
-Version: 1.7.1
-Architecture: iphoneos-arm
-Maintainer: Ali <aliiosapp@gmail.com>
-Depends: firmware (>= 10.0), gawk, coreutils-bin, zip, bash, dpkg, apt7, shell-cmds, unzip
-Filename: ./debs/com.pulandres.bckup_1.7.1_iphoneos-arm.deb
-Size: 6521516
-MD5sum: 138216a8cd50c3552179a852b26ecc1d
-SHA1: 4257a4a827220a4d192accb9596cf26416524f34
-SHA256: b1a9378cbfefdebe5a6ba5327b0238f52e845ae0323e4e450fa16830bde9b617
-Section: Tweaks
-Description: Backup all your tweaks and preferences
-Author: Ali
-Depiction: Depiction: https://repo90.github.io/ios1/depictions/?p=com.pulandres.bckup_1.7.1_iphoneos-arm
-Icon: https://repo.packix.com/api/Packages/5ae6b6cd412e8f6ed3f6b6d6/icon/download?size=medium
-Name: BackupAZ 3 (iOS 10 - 13) Cracked
-
-Package: gawk
-Version: 4.2.1-1
-Architecture: iphoneos-arm
-Maintainer: Ali <aliiosapp@gmail.com>
-Filename: ./debs/gawk_4.2.1-1_iphoneos-arm.deb
-Size: 255388
-MD5sum: 12759052538b65c2d84b035a605c4187
-SHA1: 8e98a73d5597134a07115f90181c668a15dad63b
-SHA256: 684a3dfe585766c04f5544a7f308f365f54faba6d2cc2318d04453d12a6ff55b
-Section: Utilities
-Description: GNU's heavy-weight implementation of awk
-Depiction: Depiction: https://repo90.github.io/ios1/depictions/?p=gawk_4.2.1-1_iphoneos-arm
-Homepage: http://www.gnu.org/software/gawk/
-Installed-Size: 2952
-Multi-Arch: foreign
-Name: Gawk
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: important
-
 Package: com.abcydia.netcontrol
 Version: 1.0.1-6
 Architecture: iphoneos-arm
-Maintainer: Ali <aliiosapp@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
 Filename: ./debs/com.abcydia.netcontrol_1.0.1-6_iphoneos-arm.deb
 Size: 651622
@@ -209,72 +25,41 @@ MD5sum: 6fdfc8de76484b1f4da523ec31d1cd0e
 SHA1: 8c32e3d4e52a15d200477cac291956ee4de79e59
 SHA256: 3965a46c9c93976800f4fb6d62e3b53c445f2b89e2e7ce8333c5e4543751a3ce
 Section: Tweaks
-Description: أداة لقطع الانترنت عن التطبيقات
-Author: Ali Albasrawi
-Depiction: Depiction: https://repo90.github.io/ios1/depictions/?p=com.abcydia.netcontrol_1.0.1-6_iphoneos-arm
+Description: 设置 App WiFi接入限制 Customize Cellular Data WiFi Networking Privileges
+Author: TeamWZ <admin@abcydia.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=netcontrolDp
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=netcontrolDp
 Icon: file:///Library/PreferenceBundles/NetControl.bundle/abcydia@2x.png
 Installed-Size: 2415
-Name: NetControl By Albasrawi
+Name: NetControl 联网权限
 Priority: optional
+Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+dev: abcydia
 
-Package: com.laughingquoll.prysm
-Version: 1.5
+Package: com.arab-cydia.dylibdisabler3
+Version: 3.0-0-1
 Architecture: iphoneos-arm
-Maintainer: Ali <aliiosapp@gmail.com>
-Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
-Filename: ./debs/com.laughingquoll.prysm_1.5_iphoneos-arm.deb
-Size: 252628
-MD5sum: cdb53b134f0d26c66e608898df63ed50
-SHA1: 92251b2023ce90b77e989e41109ecf37274860cb
-SHA256: e89676d61a1c7feb944f5baddfc95c04df4c35ee0c158dbc69d9f53b75e22334
-Depiction: https://repo90.github.io/ios1/depictions/?p=com.laughingquoll.prysm_1.5_iphoneos-arm
-Section: Tweaks
-Description: أداة لتغيير مركز التحكم بشكل جذري .
-Author: LaughingQuoll
-Installed-Size: 2156
-Name: Prysm
-
-Package: com.noisyflake.magmaevo
-Version: 1.2.3
-Architecture: iphoneos-arm
-Maintainer: Ali <aliiosapp@gmail.com>
-Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, org.thebigboss.libcolorpicker (>= 1.6.7)
-Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
-Filename: ./debs/com.noisyflake.magmaevo_1.2.3_iphoneos-arm.deb
-Size: 100572
-MD5sum: 7ae5e2eda6453a7d3f42007fcfc9f305
-SHA1: 8536e7fca9f0fa73962167b263a809c264162e73
-SHA256: 1b1642ee868747be88ab8436b731d8ce366512737f9ba30df8a9042a82aa4a72
-Depiction: https://repo90.github.io/ios1/depictions/?p=com.noisyflake.magmaevo_1.2.3_iphoneos-arm
-Section: Tweaks
-Description: Redefine your Control Center
-Author: علي البصراوي
-Installed-Size: 600
-Name: Magma Evo
-
-Package: com.shepgoba.downloadbar13
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: علي البصراوي
-Depends: mobilesubstrate
-Filename: ./debs/com.shepgoba.downloadbar13_1.0.1_iphoneos-arm.deb
-Size: 5268
-MD5sum: 2e39cc55d031fc5f3211f88c83e81d01
-SHA1: 1766f116aad58fae7e04cb3cbe8ca0af1ccbf144
-SHA256: 68882fd0703b02737464a857432726a9a7115eb0aca8c0381b78e6517ad932e1
-Depiction: https://repo90.github.io/ios1/depictions/?p=com.shepgoba.downloadbar13_1.0.1_iphoneos-arm
-Section: Tweaks
-Description: Show a progress bar for downloading apps instead!
-Author: Ali <aliiosapp@gmail.com>
-Installed-Size: 136
-Name: DownloadBar13
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: firmware (>= 10.0)
+Conflicts: us.nakedproductions.dylibdisabler, us.nakedproductions.dylibdisabler2
+Replaces: us.nakedproductions.dylibdisabler3
+Filename: ./debs/com.arab-cydia.dylibdisabler3_3.0-0-1_iphoneos-arm.deb
+Size: 666828
+MD5sum: 40e1d3b41ed4a1c5e9669e451c34225d
+SHA1: ce2847a2620c886d40be7e0a93ed379a95a9c784
+SHA256: 28ef014a449b9a5780acccd747a8c71d7ae09917b4e2750fe229266ab433a0f2
+Section: Tweak_
+Description: تعطيل الادوات مؤقتا لمعرفة الاداة المسببة للكراش او السيف مود
+Author: EvilPenguin / ichitaso
+Name: DylibDisabler 3
+Priority: optional
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/repo/>
 
 Package: com.creaturecoding.shuffle
 Version: 1.1.4
 Architecture: iphoneos-arm
-Maintainer: Ali
+Maintainer: CreatureSurvive <support@creaturecoding.com>
 Depends: com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
 Replaces: com.cpdigitaldarkroom.placeholder
@@ -283,26 +68,72 @@ Size: 203470
 MD5sum: 6fd430c3c115d629cd62d91f40e6c303
 SHA1: c05450e3934cea89ff3c661099d9b3ee5b82dcd4
 SHA256: 85ee8233ba2f43b59576fb45296ca78e5316a86919e603b59333f0d20b4a6c67
-Section: rana
+Section: Tweaks
 Description: Mix up your preferences
 Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=shuffle
+Homepage: https://creaturecoding.com/
 Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
 Installed-Size: 1600
 Name: shuffle
 Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
+Tag: purpose::extension, compatible_min::iosiOS10
 
+Package: com.ichitaso.powerselector11
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/com.ichitaso.powerselector11_1.2.6_iphoneos-arm.deb
+Size: 204154
+MD5sum: c00cc4066ef34eb5e3171025d98e9ca1
+SHA1: 8407b8619d3af49b34ee6b7b110ba626d8f62164
+SHA256: 0871d3222d1922530490e35c0085ca5d94a47837a952875ecaff543827337cde
+Section: Utilities
+Description: The power supply relation of a device is operated.
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+Installed-Size: 1860
+Name: PowerSelector (iOS 11 to 13)
+Pre-Depends: firmware (>= 11.0)
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+dev: ichitaso
+
+Package: com.julioverne.mimport
+Version: 0.0~beta36
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, firmware (>= 6.0), unzip, unrar
+Filename: ./debs/com.julioverne.mimport_0.0~beta36_iphoneos-arm.deb
+Size: 1033394
+MD5sum: e31ecf63a5876f9a9712d7950e62da47
+SHA1: 7be58258a81cfad21ccdca870fb34cbfbb4c2b56
+SHA256: 95f7e0f81fa080521746951b9f0c078a4a4ac0decd0506034d62822ef84b6abf
+Section: Tweaks
+Description: Media Importer Directly From Music App
+Author: julioverne <julioverne@me.com>
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.mimport
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
+Name: MImport
 
 Package: com.laughingquoll.prysm
 Version: 1.6
 Architecture: iphoneos-arm
-Maintainer: Ali
+Maintainer: LaughingQuoll
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
 Filename: ./debs/com.laughingquoll.prysm_1.6_iphoneos-arm.deb
 Size: 789262
 MD5sum: 90b019c3c4a006ecdcf646cc48881268
 SHA1: 3f4a7d14dc3f049cf1e62622e0ea81fede2791e3
 SHA256: 4e257bb93a28c31de3cd76fc87532ba589d39b6d22ce494a64adacb93fb494c4
-Section: rana
+Section: Tweaks
 Description: Your control center, reimagined.
 Author: LaughingQuoll
 Installed-Size: 2960
@@ -311,7 +142,7 @@ Name: Prysm
 Package: com.noisyflake.magmaevo
 Version: 1.2.4
 Architecture: iphoneos-arm
-Maintainer: Ali
+Maintainer: NoisyFlake
 Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, org.thebigboss.libcolorpicker (>= 1.6.7)
 Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
 Filename: ./debs/com.noisyflake.magmaevo_1.2.4_iphoneos-arm.deb
@@ -319,72 +150,126 @@ Size: 106330
 MD5sum: 98a662850d5c89f931b8cec87a0199b5
 SHA1: f23fa24873fc941364865622002d049fdd9db38d
 SHA256: 14490c9ccff1c7ad797b1c2646b24e606ac0a91c28392de2e383ca95bd1404a9
-Section: rana
+Section: Tweaks
 Description: Redefine your Control Center
 Author: NoisyFlake
 Installed-Size: 620
 Name: Magma Evo
 
+Package: com.pulandres.bckup
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Depends: firmware (>= 10.0), gawk, coreutils-bin, zip, bash, dpkg, apt7, shell-cmds, unzip
+Filename: ./debs/com.pulandres.bckup_1.7.1_iphoneos-arm.deb
+Size: 6521516
+MD5sum: 138216a8cd50c3552179a852b26ecc1d
+SHA1: 4257a4a827220a4d192accb9596cf26416524f34
+SHA256: b1a9378cbfefdebe5a6ba5327b0238f52e845ae0323e4e450fa16830bde9b617
+Section: Tweaks
+Description: Backup all your tweaks and preferences
+Author: SynnyG
+Depiction: https://repo.pulandres.me/index.php?pid=1661
+Icon: https://repo.packix.com/api/Packages/5ae6b6cd412e8f6ed3f6b6d6/icon/download?size=medium
+Name: BackupAZ 3 (iOS 10 - 13) Cracked
+SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1661
+
 Package: com.pulandres.photomanager12
 Version: 1.1.2-3
 Architecture: iphoneos-arm
-Maintainer: Ali
+Maintainer: Pulandres
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Filename: ./debs/com.pulandres.photomanager12_1.1.2-3_iphoneos-arm.deb
 Size: 471070
 MD5sum: 3e07aac6985113678db4c00e0f532934
 SHA1: eb6a349827c5bd23757878e13eda30c8109e7a19
 SHA256: 24949767ed2846bd4899c149465d1a0bcfdcb7443cff649b334370849d217abb
-Section: rana
+Section: Tweaks
 Description: Add many features to the photos app.
 Author: Frozen Penguin
+Depiction: https://repo.pulandres.me/index.php?pid=1075
 Icon: https://repo.pulandres.me/CydiaIcon.png
 Installed-Size: 1560
 Name: PhotoManager (iOS 12 & 13) Free
+SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1075
 
 Package: com.shepgoba.downloadbar13
 Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: Ali
+Maintainer: shepgoba
 Depends: mobilesubstrate
 Filename: ./debs/com.shepgoba.downloadbar13_1.0.1_iphoneos-arm.deb
 Size: 5268
 MD5sum: 2e39cc55d031fc5f3211f88c83e81d01
 SHA1: 1766f116aad58fae7e04cb3cbe8ca0af1ccbf144
 SHA256: 68882fd0703b02737464a857432726a9a7115eb0aca8c0381b78e6517ad932e1
-Section: rana
+Section: Tweaks
 Description: Show a progress bar for downloading apps instead!
+Author: shepgoba
 Installed-Size: 136
 Name: DownloadBar13
 
 Package: me.ahmedbafkir.dleasy
 Version: 2.9.3
 Architecture: iphoneos-arm
-Maintainer: Ali
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
 Filename: ./debs/me.ahmedbafkir.dleasy_2.9.3_iphoneos-arm.deb
 Size: 2013884
 MD5sum: 40d241b41eb632b56360555340614715
 SHA1: 0aa41951536b517ec4ce2626340484cb5964f34d
 SHA256: 6401f21a9ffb106b901f1653c9883fd8d000a804447502ff506a66b37dd15f0e
-Section: rana
+Section: Tweaks
 Description: Download/Share images & videos from social apps easily!
-Author: Ali
+Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
 Installed-Size: 11712
 Name: DLEasy
 
+Package: me.nepeta.relocate
+Version: 0.1.11
+Architecture: iphoneos-arm
+Maintainer: Nepeta
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7)
+Filename: ./debs/me.nepeta.relocate_0.1.11_iphoneos-arm.deb
+Size: 94710
+MD5sum: 483ee6149e539ce31afffa59c8880528
+SHA1: 20514330acd718cf95b8ffb3816f6c1660f7fe65
+SHA256: ad5798646107102dfde09f29d83689703fffda0985472dfad2862663e8ec50df
+Section: Tweaks
+Description: Minimalist GPS spoofer (free)
+Author: Nepeta
+Installed-Size: 552
+Name: Relocate
+
+Package: me.nepeta.unsub
+Version: 0.1.9
+Architecture: iphoneos-arm
+Maintainer: Nepeta
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
+Filename: ./debs/me.nepeta.unsub_0.1.9_iphoneos-arm.deb
+Size: 41206
+MD5sum: 7231014fd36383bc396dea91412b004e
+SHA1: b2a6a5b4b0c94edb180b2f6514abee94c5059165
+SHA256: 8b351a1835d8d2a8b519c0d360695e4da4286c265066d43f0c46880a5bb9a3d6
+Section: Tweaks
+Description: Disable tweak injection (Substrate/Substitute) in certain apps.
+Author: Nepeta
+Installed-Size: 624
+Name: UnSub
+
 Package: net.dodgraphics.midevice
 Version: 2.0.0-3
 Architecture: iphoneos-arm
-Maintainer: Ali
+Maintainer: DODGraphics
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, org.thebigboss.libcolorpicker, applist
 Filename: ./debs/net.dodgraphics.midevice_2.0.0-3_iphoneos-arm.deb
 Size: 190354
 MD5sum: e228d759f42758acdee65d970240a748
 SHA1: 71b0f4001f30bd897e5d87875cd6d34b55a29b19
 SHA256: a06753e18b79e2de4d947946412e36ba90a87fb5d6d666d767e44c7d15642b42
-Section: rana
+Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: DODGraphics
 Installed-Size: 740
@@ -393,18 +278,78 @@ Name: MiDevice
 Package: org.thebigboss.dismissprogress
 Version: 1.0.3
 Architecture: iphoneos-arm
-Maintainer: Ali
+Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 3.0), cydia (>= 1.1.19)
 Filename: ./debs/org.thebigboss.dismissprogress_1.0.3_iphoneos-arm.deb
 Size: 6030
 MD5sum: 23b3321aeab6d8efddf51918b013001a
 SHA1: f810aa48be46e6e2355bf075000312c41e7b9ee3
 SHA256: c8cff6ed98b629e0ecbd4138eb57f5aeba9a974e4d4d62edb2d6d2dff8e5854c
-Section: rana
+Section: Tweaks
 Description: Dismiss Cydia'a installation window without closing cydia.
 Author: PoomSmart <poomst@hotmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dismissprogressDp
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dismissprogressDp
 Installed-Size: 150
 Name: DismissProgress
+Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
 dev: poomst
+
+Package: ru.rejail.apptools
+Version: 1.6.0k
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/ru.rejail.apptools_1.6.0k_iphoneos-arm.deb
+Size: 609370
+MD5sum: 83236acf216735ba1715b5bb5eb46618
+SHA1: 9cac33fe72397b5398938f86315f979aa62c38db
+SHA256: 7367dd52221dd7f707a13c1d45c47f63139f73fce28b8e6ff0dcae26919c0601
+Section: Tweaks
+Description: Удобный доступ к управлению приложениями
+Author: aReo <minikissbye@foxmail.com>
+Depiction: https://rejail.ru/depiction.php?file=apptools
+Icon: file:///Library/PreferenceBundles/AppTools.bundle/icon@2x.png
+Installed-Size: 1999
+Name: AppTools
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=apptools
+
+Package: ru.rejail.cercube
+Version: 5.1.10k
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap, ru.rejail.adblockplus
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Filename: ./debs/ru.rejail.cercube_5.1.10k_iphoneos-arm.deb
+Size: 8397966
+MD5sum: af4b52bc258ca04bfb5c518bdec7aabb
+SHA1: e6d1efe8f183389b95985474cc822e74cc129e4c
+SHA256: d55a13d027cc57a2496e7b633d819daf7fffa6f9e58595613ae0ad630201a14b
+Section: Tweaks
+Description: Загрузка видео на YouTube и многое другое
+Author: Majd Alfhaily
+Depiction: https://rejail.ru/depiction.php?file=cercube
+Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Installed-Size: 33587
+Name: Cercube for YouTube
+Priority: optional
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=cercube
+
+Package: sileoturkiye.bioprotectxs
+Version: 4.3-22k
+Architecture: iphoneos-arm
+Maintainer: Önder Azazi <onderazazi@hotmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
+Filename: ./debs/sileoturkiye.bioprotectxs_4.3-22k_iphoneos-arm.deb
+Size: 774426
+MD5sum: 40b46573ab10be7976b01ce8082691be
+SHA1: 7e8fb1f947b952eb3fbc1d4ee018871c15be2994
+SHA256: 93500c54c0156c9359eb7378bed44fac46271f13ec8d74434e27a6139a1c6743
+Section: TR - TR Yama
+Description: Touch ID/Yüz Kimliği ile uygulamalarınızı koruyun!
+Author: Elias Limneos
+Name: BioProtect XS Türkçe
+Pre-Depends: sileoturkiye.limneososs
+
