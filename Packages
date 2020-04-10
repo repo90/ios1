@@ -270,3 +270,141 @@ Description: Show a progress bar for downloading apps instead!
 Author: Ali <aliiosapp@gmail.com>
 Installed-Size: 136
 Name: DownloadBar13
+
+Package: com.creaturecoding.shuffle
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: Ali
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.creaturecoding.shuffle_1.1.4_iphoneos-arm.deb
+Size: 203470
+MD5sum: 6fd430c3c115d629cd62d91f40e6c303
+SHA1: c05450e3934cea89ff3c661099d9b3ee5b82dcd4
+SHA256: 85ee8233ba2f43b59576fb45296ca78e5316a86919e603b59333f0d20b4a6c67
+Section: rana
+Description: Mix up your preferences
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+Installed-Size: 1600
+Name: shuffle
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+
+
+Package: com.laughingquoll.prysm
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Ali
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Filename: ./debs/com.laughingquoll.prysm_1.6_iphoneos-arm.deb
+Size: 789262
+MD5sum: 90b019c3c4a006ecdcf646cc48881268
+SHA1: 3f4a7d14dc3f049cf1e62622e0ea81fede2791e3
+SHA256: 4e257bb93a28c31de3cd76fc87532ba589d39b6d22ce494a64adacb93fb494c4
+Section: rana
+Description: Your control center, reimagined.
+Author: LaughingQuoll
+Installed-Size: 2960
+Name: Prysm
+
+Package: com.noisyflake.magmaevo
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: Ali
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, org.thebigboss.libcolorpicker (>= 1.6.7)
+Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
+Filename: ./debs/com.noisyflake.magmaevo_1.2.4_iphoneos-arm.deb
+Size: 106330
+MD5sum: 98a662850d5c89f931b8cec87a0199b5
+SHA1: f23fa24873fc941364865622002d049fdd9db38d
+SHA256: 14490c9ccff1c7ad797b1c2646b24e606ac0a91c28392de2e383ca95bd1404a9
+Section: rana
+Description: Redefine your Control Center
+Author: NoisyFlake
+Installed-Size: 620
+Name: Magma Evo
+
+Package: com.pulandres.photomanager12
+Version: 1.1.2-3
+Architecture: iphoneos-arm
+Maintainer: Ali
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.pulandres.photomanager12_1.1.2-3_iphoneos-arm.deb
+Size: 471070
+MD5sum: 3e07aac6985113678db4c00e0f532934
+SHA1: eb6a349827c5bd23757878e13eda30c8109e7a19
+SHA256: 24949767ed2846bd4899c149465d1a0bcfdcb7443cff649b334370849d217abb
+Section: rana
+Description: Add many features to the photos app.
+Author: Frozen Penguin
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Installed-Size: 1560
+Name: PhotoManager (iOS 12 & 13) Free
+
+Package: com.shepgoba.downloadbar13
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Ali
+Depends: mobilesubstrate
+Filename: ./debs/com.shepgoba.downloadbar13_1.0.1_iphoneos-arm.deb
+Size: 5268
+MD5sum: 2e39cc55d031fc5f3211f88c83e81d01
+SHA1: 1766f116aad58fae7e04cb3cbe8ca0af1ccbf144
+SHA256: 68882fd0703b02737464a857432726a9a7115eb0aca8c0381b78e6517ad932e1
+Section: rana
+Description: Show a progress bar for downloading apps instead!
+Installed-Size: 136
+Name: DownloadBar13
+
+Package: me.ahmedbafkir.dleasy
+Version: 2.9.3
+Architecture: iphoneos-arm
+Maintainer: Ali
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Filename: ./debs/me.ahmedbafkir.dleasy_2.9.3_iphoneos-arm.deb
+Size: 2013884
+MD5sum: 40d241b41eb632b56360555340614715
+SHA1: 0aa41951536b517ec4ce2626340484cb5964f34d
+SHA256: 6401f21a9ffb106b901f1653c9883fd8d000a804447502ff506a66b37dd15f0e
+Section: rana
+Description: Download/Share images & videos from social apps easily!
+Author: Ali
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
+Installed-Size: 11712
+Name: DLEasy
+
+Package: net.dodgraphics.midevice
+Version: 2.0.0-3
+Architecture: iphoneos-arm
+Maintainer: Ali
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, org.thebigboss.libcolorpicker, applist
+Filename: ./debs/net.dodgraphics.midevice_2.0.0-3_iphoneos-arm.deb
+Size: 190354
+MD5sum: e228d759f42758acdee65d970240a748
+SHA1: 71b0f4001f30bd897e5d87875cd6d34b55a29b19
+SHA256: a06753e18b79e2de4d947946412e36ba90a87fb5d6d666d767e44c7d15642b42
+Section: rana
+Description: An awesome MobileSubstrate tweak!
+Author: DODGraphics
+Installed-Size: 740
+Name: MiDevice
+
+Package: org.thebigboss.dismissprogress
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Ali
+Depends: mobilesubstrate, firmware (>= 3.0), cydia (>= 1.1.19)
+Filename: ./debs/org.thebigboss.dismissprogress_1.0.3_iphoneos-arm.deb
+Size: 6030
+MD5sum: 23b3321aeab6d8efddf51918b013001a
+SHA1: f810aa48be46e6e2355bf075000312c41e7b9ee3
+SHA256: c8cff6ed98b629e0ecbd4138eb57f5aeba9a974e4d4d62edb2d6d2dff8e5854c
+Section: rana
+Description: Dismiss Cydia'a installation window without closing cydia.
+Author: PoomSmart <poomst@hotmail.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dismissprogressDp
+Installed-Size: 150
+Name: DismissProgress
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+dev: poomst
