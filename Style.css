@@ -64,9 +64,9 @@ header .btn{
 }
 
 .btn-outline {
-    color:#a3c1d5;
+    color:#072e81;
     font-size: 1.2em;
-    border: solid 1.5px #a3c1d5;
+    border: solid 1.5px #eab12e;
     background: transparent;
     transition: all 0.3s ease-in-out;
     margin-top: 15px;
@@ -77,7 +77,7 @@ header .btn{
 .btn-outline:active,
 .btn-outline.active {
     color: white;
-    background:#a3c1d5;
+    background:#072e81;
     border: solid 1.5px white;
 }
 
@@ -96,7 +96,7 @@ footer .footer-above {
     padding-top:2px;
     height: 50px;
     width: 50px;
-    border: 1.5px solid #a3c1d5;
+    border: 1.5px solid #eab12e;
     border-radius: 100%;
     text-align: center;
     font-size: 20px;
