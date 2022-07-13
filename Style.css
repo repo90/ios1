@@ -1,22 +1,13 @@
 body {
-   margin: 0;
-    podding: 0;
-    background: url(212.jpg);
-    background-size: cover;
-    font-family: 'Aref Ruqaa',  sans-serif;
+    font-family: 'Karla',  sans-serif;
     overflow-x: hidden;
 }
 
 header {
     text-align: center;
     background: none;
-    color: #e9be94;
-    text-shadow: 1px 3px 4px black;
+    color: #242424;
 }
- background-url(212.jpg)
-    background-size: cover;
-
-
 
 header .intromsg {
     padding-top: 30px;
@@ -73,9 +64,9 @@ header .btn{
 }
 
 .btn-outline {
-    color:#f4f4f4;
-    font-size: 1.4em;
-    border: solid 2.7px #e9be94;
+    color:#a3c1d5;
+    font-size: 1.2em;
+    border: solid 1.5px #a3c1d5;
     background: transparent;
     transition: all 0.3s ease-in-out;
     margin-top: 15px;
@@ -86,8 +77,8 @@ header .btn{
 .btn-outline:active,
 .btn-outline.active {
     color: white;
-    background:#64260c;
-    border: solid 1.8px red;
+    background:#a3c1d5;
+    border: solid 1.5px white;
 }
 
 
@@ -105,72 +96,11 @@ footer .footer-above {
     padding-top:2px;
     height: 50px;
     width: 50px;
-    border: 1.5px solid #f45a5a;
+    border: 1.5px solid #a3c1d5;
     border-radius: 100%;
     text-align: center;
     font-size: 20px;
     line-height: 45px;
 }
 
-
-
-
-body {
-    background-color: #d8d8d8;
-}
-h1 {
-  text-align: center;
-}
-.social-menu ul {
-    position: absolute;
-    top: 115%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    padding: 0;
-    margin: 0;
-    display: flex;
-}
-.social-menu ul li {
-    list-style: none;
-    margin: 0 10px;
-}
-.social-menu ul li .fa {
-    color: #000000;
-    font-size: 25px;
-    line-height: 50px;
-    transition: .5s;
-}
-.social-menu ul li .fa:hover {
-    color: #ffffff;
-}
-.social-menu ul li a {
-    position: relative;
-    display: block;
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    background-color: white;
-    text-align: center;
-    transition: 0.5s;
-    transform: translate(0,0px);
-    box-shadow: 0px 7px 5px rgba(0, 0, 0, 0.5);
-}
-.social-menu ul li a:hover {
-    transform: rotate(0deg) skew(0deg) translate(0, -10px);
-}
-.social-menu ul li:nth-child(1) a:hover {
-    background-color: #3b5999;
-}
-.social-menu ul li:nth-child(2) a:hover {
-    background-color: #55acee;
-}
-.social-menu ul li:nth-child(3) a:hover {
-    background-color: #ff00a7;
-}
-.social-menu ul li:nth-child(4) a:hover {
-    background-color: #ffe700;
-}
-.social-menu ul li:nth-child(5) a:hover {
-    background-color: #15ff00;
-}
 
