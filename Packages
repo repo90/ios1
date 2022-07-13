@@ -10,6 +10,7 @@ SHA256: 122b7bcf88006eca945887c7a99f2346737391c28d736ec554e333f02605a3bc
 Section: Fonts
 Description: Well-known Microsoft font. 100% size. For iOS10-12.
 Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontdubai12
 Icon: https://github.com/repo90/ios1/tree/master/depictions/sectionIcons/Fonts.png
 Name: Dubai (iOS10-12)
 SileoDepiction: https://evynw.github.io/sileo/fontdubai12.json
