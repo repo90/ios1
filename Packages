@@ -1,3 +1,23 @@
+Package: ru.rj.crane
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: Albasrawi aliiosapp@gmail.com
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.altlist (>=1.0.5), com.rpetrich.rocketbootstrap, preferenceloader, com.opa334.libundirect (>=1.1) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/Albasrawi.crane_1.2.3_iphoneos-arm.deb
+Size: 670098
+MD5sum: 7c023e3f4afe4e521acb7f82888cc845
+SHA1: 1391060955614de4fc309cd609bad3725f41fffc
+SHA256: 5c2861352ef8f6124db48905f0c30f3d65536b6537bc19bba86672981b45130d
+Section: Tweaks
+Description: اداة تكرار الحساسات للتطبيقات 
+Author: Iraq Cydia
+Depiction: https://github.com/repo90/ios1/tree/master/depictions/Albasrawi.crane_1.2.3.html
+Icon: https://repo.packix.com/api/Packages/5f47aad427f6a8001ac6eb05/icon/download?size=medium
+Installed-Size: 3522
+Name: Crane Albasrawi
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=crane
+
 Package: io.github.worksbybbs.whitebwcwrespringlogo
 Version: 1.0
 Architecture: iphoneos-arm
@@ -11,7 +31,7 @@ SHA256: 02e34dac218f53688e0a7e2905315dcc9093b72749c57a0f0399e6dbd649267d
 Section: Themes (Respring Logo)
 Description: A white version of the BWCW Respring Logo
 Author: b1gbangseungri
-Depiction: https://worksbybbs.github.io/depictions/whiteBWCW.html
+Depiction: https://github.com/repo90/ios1/tree/master/depictions/whiteBWCW.html
 Name: White BWCW Respring Logo
 homepage: https://worksbybbs.github.io/depictions/whiteBWCW.html
 
