@@ -1,3 +1,9 @@
 python -m pip install pydpkg --user
 
 python .\dpkg-scanpackages.py -m .\debs -o Packages
+
+
+______________________________________________________________
+استخراج باكج الاداة من ملف الاحتياط حتى مايروح تعديلي على الباكج السابق 
+
+python .\dpkg-scanpackages.py -m .\debs1 -o Packages1
