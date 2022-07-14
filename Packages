@@ -31,7 +31,7 @@ SHA256: 02e34dac218f53688e0a7e2905315dcc9093b72749c57a0f0399e6dbd649267d
 Section: Themes (Respring Logo)
 Description: A white version of the BWCW Respring Logo
 Author: b1gbangseungri
-Depiction: https://worksbybbs.github.io/depictions/whiteBWCW.html
+Depiction: https://github.com/repo90/ios1/blob/master/depictions/whiteBWCW.html
 Name: White BWCW Respring Logo
 homepage: https://worksbybbs.github.io/depictions/whiteBWCW.html
 
