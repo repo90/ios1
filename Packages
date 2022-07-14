@@ -21,7 +21,7 @@ SileoDepiction: https://rejail.ru/sileo/depiction.php?file=crane
 Package: io.github.worksbybbs.whitebwcwrespringlogo
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Maintainer: Albasrawi aliiosapp@gmail.com
 Depends: com.anemonetheming.anemone
 Filename: ./debs/White-BWCW-Respring-Logo.deb
 Size: 134862
@@ -32,6 +32,29 @@ Section: Themes (Respring Logo)
 Description: A white version of the BWCW Respring Logo
 Author: b1gbangseungri
 Depiction: https://repo90.github.io/ios1/depictions/whiteBWCW.html
-Name: White BWCW Respring Logo
+Name: White BWCW Respring Logo AB
 homepage: https://repo90.github.io/ios1/depictions/whiteBWCW.html
 
+Package: com.ichitaso.powerselector11
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: Albasrawi aliiosapp@gmail.com
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/powerselector11_1.3.4.deb
+Size: 218666
+MD5sum: a64a7e5bd7b7cf9ae075dc8ef6b7cced
+SHA1: d18c4ae2d242712ca5a79b339ef2077b58c2a0ad
+SHA256: 3835e9084ebe79fbad7d2864b0677a875a90a8e9b9153481f63d9a84a6a4eae6
+Section: Utilities
+Description: The power supply relation of a device is operated.
+Author: Albasrawi aliiosapp@gmail.com
+Depiction: https://repo90.github.io/ios1/depictions/powerselector11_1.3.4.html
+Homepage: https://repo90.github.io/ios1/depictions/powerselector11_1.3.4.html
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+Installed-Size: 2556
+Name: PowerSelector (iOS 11 to 14) AB
+Pre-Depends: firmware (>= 11.0)
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+dev: ALBASRAWI
