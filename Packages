@@ -1,17 +1,17 @@
-Package: com.evynw.fontdubai12
-Version: 1.1
+Package: io.github.worksbybbs.whitebwcwrespringlogo
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Albasrawi < aliiosapp@gmail.com>
-Filename: ./debs/com.evynw.fontdubai12_1.1_iphoneos-arm.deb
-Size: 9828626
-MD5sum: 2ee097a344587635a7b8e746e177945d
-SHA1: e48ae24295481a43ab9191ede0f9ebf9784bda9b
-SHA256: 122b7bcf88006eca945887c7a99f2346737391c28d736ec554e333f02605a3bc
-Section: Fonts
-Description: Well-known Microsoft font. 100% size. For iOS10-12.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontdubai12
-Icon: https://github.com/repo90/ios1/tree/master/depictions/sectionIcons/Fonts.png
-Name: Dubai (iOS10-12)
-SileoDepiction: https://evynw.github.io/sileo/fontdubai12.json
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/White-BWCW-Respring-Logo.deb
+Size: 134862
+MD5sum: d5fca926d1ba1563bb25e91ebaedd8ce
+SHA1: 1dcc158d5257eb727d0e916e429d0657f3599096
+SHA256: 02e34dac218f53688e0a7e2905315dcc9093b72749c57a0f0399e6dbd649267d
+Section: Themes (Respring Logo)
+Description: A white version of the BWCW Respring Logo
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/whiteBWCW.html
+Name: White BWCW Respring Logo
+homepage: https://worksbybbs.github.io/depictions/whiteBWCW.html
 
