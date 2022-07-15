@@ -30,11 +30,11 @@ h1, h2, h3, h4, h5, h6, .title {
 
 #descTitle, #shotsTitle, #paypalTitle, #linksTitle, #dependTitle, #changelogTitle {
     background-color: #FAF0E6;
-    border: solid  ; 
+    border: solid 1px ; 
 }
 
 .list-group-item {
     background-color: #FBFBF9;
-    border: solid;
+    border: solid 1px ;
     border-radius: 0;
 }
