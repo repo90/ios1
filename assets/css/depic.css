@@ -7,15 +7,15 @@ body {
 }
 
 p{
-    font-size: 14px;
+    font-size: 18px;
 }
 
 #description{
-    padding-top: 16px;
+    padding-top: 18px;
 }
 
 a {
-    color: لblack;
+    color: black;
 }
 
 a:hover{
@@ -25,7 +25,7 @@ a:hover{
 h4 .title { 
     font-family: 'Dosis', sans-serif;
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: 900;
 }
 
 #descTitle, #shotsTitle, #paypalTitle, #linksTitle, #dependTitle, #changelogTitle {
