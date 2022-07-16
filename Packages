@@ -40,7 +40,7 @@ Version: 1.4-5b
 Architecture: iphoneos-arm
 Maintainer: Albasrawi aliiosapp@gmail.com
 Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
-Filename: ./debs/IraqCydia.localiapstore_1.4-5b.deb
+Filename: ./debs/iraqCydia.localiapstore_1.4-5b.deb
 Size: 73062
 MD5sum: e5496f77ea135b556b32b2aa410d0c07
 SHA1: b4e15265fe14497e39904cee91c2712211f33f09
@@ -50,3 +50,19 @@ Depiction: https://repo90.github.io/ios1/depictions/IraqCydia.localiapstore_1.4-
 Description: أداة تهكير بعض التطبيقات والالعاب والشراء من داخلها قد لا تعمل مع بعض التطبيقات والالعاب.
 Author:Ali
 Name: LocalIAPStore IQ
+
+Package: iraqcydia.downloadbar
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmai.com>
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/iraqcydia.downloadbar_1.0.1.deb
+Size: 12622
+MD5sum: e9ff03ef2212135f96eacdb60a95002b
+SHA1: 65f37a057292deb3a5621745ca5d34364791d8c9
+SHA256: 1cc7e9b160d4ecb22f9e2628ef26deb571b987d614b50d64be2d1e103e62b468
+Section: Tweaks 
+Depiction: https://repo90.github.io/ios1/depictions/iraqcydia.downloadbar_1.0.1.html
+Description: اظهار نسبة التحميل للتطبيقات
+Author: Ali
+Name: DownloadBar13
