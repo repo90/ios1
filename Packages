@@ -18,22 +18,6 @@ Installed-Size: 3522
 Name: Crane Albasrawi
 SileoDepiction: https://rejail.ru/sileo/depiction.php?file=crane
 
-Package: io.github.worksbybbs.whitebwcwrespringlogo
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Albasrawi aliiosapp@gmail.com
-Depends: com.anemonetheming.anemone
-Filename: ./debs/White-BWCW-Respring-Logo.deb
-Size: 134862
-MD5sum: d5fca926d1ba1563bb25e91ebaedd8ce
-SHA1: 1dcc158d5257eb727d0e916e429d0657f3599096
-SHA256: 02e34dac218f53688e0a7e2905315dcc9093b72749c57a0f0399e6dbd649267d
-Section: Themes (Respring Logo)
-Description: A white version of the BWCW Respring Logo
-Author: b1gbangseungri
-Depiction: https://repo90.github.io/ios1/depictions/whiteBWCW.html
-Name: White BWCW Respring Logo AB
-homepage: https://repo90.github.io/ios1/depictions/whiteBWCW.html
 
 Package: io.github.worksbybbs.alomessagebubbles.pokemon
 Version: 1.1
