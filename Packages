@@ -35,26 +35,19 @@ Depiction: https://repo90.github.io/ios1/depictions/whiteBWCW.html
 Name: White BWCW Respring Logo AB
 homepage: https://repo90.github.io/ios1/depictions/whiteBWCW.html
 
-Package: com.ichitaso.powerselector11
-Version: 1.3.4
+Package: io.github.worksbybbs.alomessagebubbles.pokemon
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi aliiosapp@gmail.com
-Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
-Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
-Replaces: com.ichitaso.powerselector11
-Filename: ./debs/powerselector11_1.3.4.deb
-Size: 218666
-MD5sum: a64a7e5bd7b7cf9ae075dc8ef6b7cced
-SHA1: d18c4ae2d242712ca5a79b339ef2077b58c2a0ad
-SHA256: 3835e9084ebe79fbad7d2864b0677a875a90a8e9b9153481f63d9a84a6a4eae6
-Section: Utilities
-Description: The power supply relation of a device is operated.
-Author: Albasrawi aliiosapp@gmail.com
-Depiction: https://repo90.github.io/ios1/depictions/powerselector11_1.3.4.html
-Homepage: https://repo90.github.io/ios1/depictions/powerselector11_1.3.4.html
-Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
-Installed-Size: 2556
-Name: PowerSelector (iOS 11 to 14) AB
-Pre-Depends: firmware (>= 11.0)
-Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
-dev: ALBASRAWI
+Filename: ./debs/AloMBPokemon.deb
+Size: 6596
+MD5sum: b19de8001f01fceeae015470a3ee305c
+SHA1: 5df88b7db943843b2af1a6f408066dfe843f8067
+SHA256: b2b654f4255eb4b00f29124a980b1097e3e4245c13da063875a7f9d89210f5ef
+Section: Themes (Message Bubbles)
+Description: Pokemon Message Bubbles Theme
+Author: Gabe
+Depiction: https://repo90.github.io/ios1/depictions/AloMBPokemon.html
+Icon: https://repo90.github.io/ios1/assets/images/Icons/AloBubbles.png
+Name: Alo Message Bubbles Pokemon
+
