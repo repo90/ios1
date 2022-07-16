@@ -66,3 +66,20 @@ Depiction: https://repo90.github.io/ios1/depictions/iraqcydia.downloadbar_1.0.1.
 Description: اظهار نسبة التحميل للتطبيقات
 Author: Ali
 Name: DownloadBar13
+
+Package: com.iraqcydia.igg
+Version: 0.2.6.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmai.com>
+Depends: mobilesubstrate (>= 0.9.5000), FIRMWARE (>= 13) | applist
+Filename: ./debs/com.iraqcydia.igg_0.2.6.1_iphoneos-arm.deb
+Size: 79629390
+MD5sum: c29ef24a864a1c5724af8ae29bac6c63
+SHA1: 6c8a80f3ad84ce3cb9265e0ab014bd23d26c8869
+SHA256: 6a49b9936ea49b155c3d8d4fe4df5dad523b3d17e71a183aac00dc678b755167
+Section: Utilities
+Depiction: https://repo90.github.io/ios1/depictions/com.iraqcydia.igg_0.2.6.1.html
+Description: Be the god of your games!
+Author: Albasrawi 
+Installed-Size: 184468
+Name: iGameGod IQ
