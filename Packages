@@ -10,7 +10,7 @@ MD5sum: 7c023e3f4afe4e521acb7f82888cc845
 SHA1: 1391060955614de4fc309cd609bad3725f41fffc
 SHA256: 5c2861352ef8f6124db48905f0c30f3d65536b6537bc19bba86672981b45130d
 Section: Tweaks
-Description: اداة تكرار الحساسات للتطبيقات 
+Description: اداة تكرار الحسابات للتطبيقات 
 Author: Iraq Cydia
 Depiction: https://repo90.github.io/ios1/depictions/Albasrawi.crane_1.2.3.html
 Icon: https://repo.packix.com/api/Packages/5f47aad427f6a8001ac6eb05/icon/download?size=medium
@@ -35,3 +35,18 @@ Depiction: https://repo90.github.io/ios1/depictions/AloMBPokemon.html
 Icon: https://repo90.github.io/ios1/assets/images/Icons/AloBubbles.png
 Name: Alo Message Bubbles Pokemon
 
+Package: sileoturkiye.localiapstore
+Version: 1.4-5b
+Architecture: iphoneos-arm
+Maintainer: Albasrawi aliiosapp@gmail.com
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Filename: ./debs/IraqCydia.localiapstore_1.4-5b.deb
+Size: 73062
+MD5sum: e5496f77ea135b556b32b2aa410d0c07
+SHA1: b4e15265fe14497e39904cee91c2712211f33f09
+SHA256: 754e472613e2deb21b298efb794488ac7afdab490551925ac8d49c71e1e35c07
+Section: Tweaks
+Depiction: https://repo90.github.io/ios1/depictions/IraqCydia.localiapstore_1.4-5b.html
+Description: أداة تهكير بعض التطبيقات والالعاب والشراء من داخلها قد لا تعمل مع بعض التطبيقات والالعاب.
+Author:Ali
+Name: LocalIAPStore IQ
